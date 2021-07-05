@@ -20,13 +20,13 @@ Step 4: Enter the directory within your terminal of a C++ file and do ``g++ file
 If you need help: https://www.youtube.com/watch?v=sXW2VLrQ3Bs
 
 ## Choosing an Text Editor
-**VSCode** - I reccomend this one because it is easy to use and you can hop right into coding. However, because it is an electron application it is a bit slower. The built in terminal is very nice - 8/10
+**VSCode** - I reccomend this one because it is easy to use and you can hop right into coding. However, because it is an electron application it is a bit slower. The built in terminal is very nice - https://code.visualstudio.com/ - 8/10
 
-**Sublime Code** - I've used this once or twice, and it is VERY fast. However, I wasn't used to it and it comes a bit bare out of box so I went back to VSCode - 7/10
+**Sublime Text** - I've used this once or twice, and it is VERY fast. However, I wasn't used to it and it comes a bit bare out of box so I went back to VSCode - https://www.sublimetext.com/ - 7/10
 
-**Vim** - This is for true tryhards, if you master VIM you won't need your mouse anymore. Vim can and will speed up your workflow, but only after months of pain - 2/10 if not sweat, 10/10 if sweat
+**Vim** - This is for true tryhards, if you master VIM you won't need your mouse anymore. Vim can and will speed up your workflow, but only after months of pain - https://www.vim.org/ - 10/10 if sweat
 
-**Atom** - No longer maintained as Microsoft owns both Atom and VSCode, however it's very aesthetic (It's also terribly slow) - 5/10
+**Atom** - No longer maintained as Microsoft owns both Atom and VSCode, however it's very aesthetic (It's also terribly slow) - https://atom.io/ - 5/10
 
 Now you're set to start your coding adventure!
 
