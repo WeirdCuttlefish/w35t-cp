@@ -1,6 +1,4 @@
 # Upcoming Competitions
-GKS Round D: 7/11/2021
-
 Facebook Hacker Cup: 8/27/2021
 
 # Introduction
