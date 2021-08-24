@@ -17,7 +17,7 @@ Step 4: Enter the directory within your terminal of a C++ file and do ``g++ file
 
 If you need help: https://www.youtube.com/watch?v=sXW2VLrQ3Bs
 
-## Choosing an Text Editor
+## Choosing a Text Editor
 **VSCode** - I reccomend this one because it is easy to use and you can hop right into coding. However, because it is an electron application it is a bit slower. The built in terminal is very nice - https://code.visualstudio.com/ - 8/10
 
 **Sublime Text** - I've used this once or twice, and it is VERY fast. However, I wasn't used to it and it comes a bit bare out of box so I went back to VSCode - https://www.sublimetext.com/ - 7/10
