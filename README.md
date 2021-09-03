@@ -1,5 +1,4 @@
 # Upcoming Competitions
-Facebook Hacker Cup: 8/27/2021
 
 # Introduction
 ## Installing C++
