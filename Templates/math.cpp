@@ -10,6 +10,7 @@ typedef vector<int> vi;
 
 template <typename T>
 bool checkPrime(T n){
+    //add sieve later
     for(T i = 2; i < sqrt(n); i++){
         if(n%i==0){
             return false;
