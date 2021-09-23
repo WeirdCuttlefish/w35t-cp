@@ -2,11 +2,13 @@
 
 using namespace std;
 
-//Assume that the size of an array nums is called "N" throughout this code
-//In competitive programming you want to limit your time complexity (and space complexity)
-//The way to measure this (besides irl time and space usage) is known as Big O
-//Optimal solutions generally have a lower Big O in both space and time
-//If you don't know what this is I would reccomend starting with LeetCode
+/**
+Assume that the size of an array nums is called "N" throughout this code
+In competitive programming you want to limit your time complexity (and space complexity)
+The way to measure this (besides irl time and space usage) is known as Big O
+Optimal solutions generally have a lower Big O in both space and time
+If you don't know what this is I would reccomend starting with LeetCode
+**/
 
 void operation(){
     cout << "Operation ";
@@ -27,6 +29,9 @@ void doubleForLoops(vector<int> nums){
     }
     cout << endl;
 }
+
+//Compile and run this program. When you first run the program the difference isn't too large.
+//However, change the 3 to 50 and you'll see how important Big O becomes
 
 int main(){
     vector<int> nums(3);
