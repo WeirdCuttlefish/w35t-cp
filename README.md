@@ -1,8 +1,4 @@
 # Upcoming Competitions
-Codeforces Round #745 - September 30
-
-Google Kickstart Round G - October 16
-
 Google Kickstart Round H - November 14
 # Introduction
 ## Installing C++
