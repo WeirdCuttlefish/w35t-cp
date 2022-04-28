@@ -1,5 +1,5 @@
 # Upcoming Competitions
-Google Kickstart Round H - November 14
+
 # Introduction
 ## Installing C++
 C++ will be your language of choice for competitive coding due to it being much faster than alternatives. In fact, it can range from 30 to even 400 times faster than Python. On top of this, most competitive programmers use C/C++ meaning you'll be able to understand and use more established code. 
